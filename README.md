@@ -13,7 +13,7 @@ Python User Account Control is a simple application built in Python for managing
 3. Run the application `main.py`
 ## Language Syntax
 The UAC program prompts the user with a terminal that allows two functions to be executed with a few parameters. The syntax to create an account on the database is
-`SIGNUP AS {USERNAME} WITH PASSWORD {PASSWORD}`
+`SIGNUP AS {USERNAME} WITH PASSWORD {PASSWORD}`.
 Likewise, logging into an existing account would use a similar syntax:
-`LOGIN AS {USERNAME} WITH PASSWORD {PASSWORD}`
+`LOGIN AS {USERNAME} WITH PASSWORD {PASSWORD}`.
 The UAC proogram is meant to be quite simple and helpful; hence, it kindly alerts the user if their syntax is incorrect. If you want to quit the shell, simply type `QUIT`.
